@@ -107,6 +107,7 @@ To get a local copy up and running, follow these simple steps.
 ## 🎨 Creative Showcase
 
 
+![finanace_track](https://github.com/user-attachments/assets/1c09068a-85d7-4a5a-ae3b-e221870a5815)
 
 | Login Screen | Dashboard | Add Transaction |
 | :---: | :---: | :---: |
