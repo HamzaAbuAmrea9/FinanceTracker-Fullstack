@@ -106,7 +106,7 @@ To get a local copy up and running, follow these simple steps.
 
 ## 🎨 Creative Showcase
 
-*(This is a great place to add screenshots or a GIF of your app in action!)*
+
 
 | Login Screen | Dashboard | Add Transaction |
 | :---: | :---: | :---: |
